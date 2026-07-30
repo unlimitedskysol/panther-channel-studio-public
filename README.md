@@ -1,14 +1,8 @@
 # Panther Channel Studio Public
 
-Official standalone download and update site.
+Official static site for V7.0.16.
 
-Upload all files and the `assets` folder directly to the repository root.
-Do not create a `public` folder and do not upload the ZIP itself.
+Upload every file and the `assets` directory directly to the repository root.
+Do not upload the ZIP itself and do not create a `public` folder.
 
 Production domain: `https://studio.panthergame.app`
-
-Update manifests:
-- `/update-v2.json`
-- `/version.json`
-
-The manifests use no-store/no-cache headers through `vercel.json`.

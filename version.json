@@ -1,10 +1,10 @@
 {
-  "latest_version": "7.0.15",
+  "latest_version": "7.0.16",
   "minimum_version": "7.0.9",
-  "title": "V7.0.15",
+  "title": "V7.0.16",
   "message": "",
   "download_url": "https://studio.panthergame.app/",
-  "sha256": "5f08a545313ccfbdd2f81447421936df498a43557a398ca20fe44da0e6ad1b5b",
+  "sha256": "a43a3c5065e2d73f4076ed5b4754aaad2f0c8de6846604174b64e6528dc55788",
   "mandatory": false,
   "published_at": "2026-07-30"
 }
