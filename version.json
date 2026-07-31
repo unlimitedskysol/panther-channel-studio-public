@@ -1,10 +1,17 @@
 {
-  "latest_version": "7.0.16",
+  "latest_version": "8.4.0",
   "minimum_version": "7.0.9",
-  "title": "V7.0.16",
+  "title": "V8.4.0",
   "message": "",
+  "changes": [
+    "Native Panther host window and Panther taskbar identity.",
+    "Removed the visible Edge taskbar window and random session title.",
+    "Rebuilt Arabic layout for correct responsive display.",
+    "Improved toolbars, tabs, metrics and Diagnostics at 125%–150% zoom.",
+    "Kept V8.3 fatal-only export validation and same-format verification."
+  ],
   "download_url": "https://studio.panthergame.app/",
-  "sha256": "a43a3c5065e2d73f4076ed5b4754aaad2f0c8de6846604174b64e6528dc55788",
+  "sha256": "711d8d338e2ab5826ee33ad3c6825ed35b7c8ae571968d06e4709091e1ab6ef1",
   "mandatory": false,
-  "published_at": "2026-07-30"
+  "published_at": "2026-07-31"
 }
